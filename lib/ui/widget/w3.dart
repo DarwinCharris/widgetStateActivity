@@ -49,6 +49,5 @@ class W3 extends StatelessWidget {
         ],
       ),
     );
-    ;
   }
 }

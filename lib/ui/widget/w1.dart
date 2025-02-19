@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class W1 extends StatelessWidget {
   final double value;
   final VoidCallback onAdd;
-  final void Function() onSub;
+  final VoidCallback onSub;
   const W1(
       {super.key,
       required this.value,
